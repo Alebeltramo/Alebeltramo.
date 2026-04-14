@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da" alt="Header" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-Dispon%C3%ADvel-22c55e?style=flat-square" alt="Disponível" />
   <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20BR-1a1f35?style=flat-square" alt="Localização" />
   <img src="https://img.shields.io/badge/6%20Repos-818cf8?style=flat-square" alt="Repos" />
@@ -20,8 +16,8 @@
 ### <a id="about"></a> `01.` `<sobre/>`
 
 <p align="center">
-  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388" alt="Programador" width="280" />
-  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da" alt="API" width="120" />
+  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388" alt="Programador" width="250" />
+  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da" alt="API" width="250" />
 </p>
 
 <br />
