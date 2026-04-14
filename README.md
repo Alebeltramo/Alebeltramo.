@@ -22,7 +22,7 @@
 ---
 
 <!-- SOBRE MIM -->
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjRtMm5jMmIyYzB0aGF0Y201bjdsemhpYTB4dnFxaTh4Mnl6NW5yNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+<!-- <img align="right" width="320" src="..." alt="Coding GIF"/> (GIF removido por instabilidade) -->
 
 ### 🧑‍💻 &nbsp;Sobre Mim
 
@@ -156,7 +156,7 @@ fuso_horário: UTC -03:00 (BRT) ⏰
 
 <img src="https://img.shields.io/badge/Oracle_ONE-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle ONE"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Alura-0056D2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABXSURBVDhPY/hPAWBkZPwPYxMDGBkZ/8PYMAAmQQgwMDL+Z0CXJBYQNBWFMOJ+hGliAYSV4QMEdQNNJejATCwAukYYIGQ13hChAKcfCQKC4UkGYPgPACqOHw+hzLfaAAAAAElFTkSuQmCC&logoColor=white" alt="Alura"/>
+<img src="https://img.shields.io/badge/Alura-0056D2?style=for-the-badge&logoColor=white" alt="Alura"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Java_Developer-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Developer"/>
 
