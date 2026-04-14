@@ -20,7 +20,8 @@
 ### <a id="about"></a> `01.` `<sobre/>`
 
 <p align="center">
-  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388" alt="Programador" width="200" />
+  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388" alt="Programador" width="280" />
+  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da" alt="API" width="120" />
 </p>
 
 <br />
