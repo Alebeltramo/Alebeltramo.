@@ -1,7 +1,8 @@
-```python
-while True:
-    print("Olá, mundo! Eu sou Alessandro Beltramo 🖐️")
-```
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1500&color=a78bfa&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+mundo!+Eu+sou;Alessandro+Beltramo+%F0%9F%96%90%EF%B8%8F;Desenvolvedor+de+Software;Freelancer+Home+Office" alt="Typing Animation" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da" alt="Header" width="100%" />
@@ -14,30 +15,42 @@ while True:
   <img src="https://img.shields.io/badge/Freelancer-a78bfa?style=flat-square" alt="Freelancer" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388" alt="Code Animation" width="100%" />
-</p>
-
 ---
 
 ### <a id="about"></a> `01.` `<sobre/>`
 
-<table>
-<tr>
-<td width="65%">
+<p align="center">
+  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388" alt="Programador" width="250" align="left" hspace="20" />
+  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da" alt="API" width="280" align="right" hspace="20" />
+  <br clear="all" />
+</p>
 
+<br />
+
+> _Enquanto isso, ele criava a API..._
+
+```python
+from flask import Flask, jsonify
+
+app = Flask(__name__)
+
+@app.route('/')
+def hello():
+    return jsonify({
+        "nome": "Alessandro Beltramo",
+        "status": "Disponível",
+        "local": "São Paulo, BR",
+        "skills": ["Python", "Java", "JavaScript", "C"],
+        "mensagem": "Olá, mundo! 🖐️"
+    })
+
+if __name__ == '__main__':
+    app.run()
 ```
-> quem_sou_eu.exe carregando...
-```
 
-Sou um **desenvolvedor de software** e **freelancer** baseado em **Taboão da Serra, São Paulo**. Cursando **Análise e Desenvolvimento de Sistemas**.
+<br />
 
-Formações pela **Oracle Next Education (ONE)** e **Alura**, com foco em **Java**, **Python** e **JavaScript**. Paixão por criar soluções eficientes e automações que simplificam processos.
-
-</td>
-<td width="35%">
-
-#### 📋 Info
+#### 📋 Informações
 
 | Detalhe | Valor |
 |---|---|
@@ -46,9 +59,9 @@ Formações pela **Oracle Next Education (ONE)** e **Alura**, com foco em **Java
 | 🎓 Formação | Análise e Dev. de Sistemas |
 | ⏰ Fuso | UTC -03:00 (BRT) |
 
-</td>
-</tr>
-</table>
+Sou um **desenvolvedor de software** e **freelancer** baseado em **Taboão da Serra, São Paulo**. Cursando **Análise e Desenvolvimento de Sistemas**.
+
+Formações pela **Oracle Next Education (ONE)** e **Alura**, com foco em **Java**, **Python** e **JavaScript**. Paixão por criar soluções eficientes e automações que simplificam processos.
 
 #### 🎯 Destaques
 
@@ -89,10 +102,6 @@ const desenvolvedor = {
 | Programação de Sistemas | Frontend & Design | Excel, Windows & Tools |
 
 </div>
-
-<p align="center">
-  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388" alt="Coding" width="60%" />
-</p>
 
 ---
 
@@ -178,7 +187,7 @@ Primeiro projeto desenvolvido com HTML, CSS e JavaScript — aulas Alura.
 
 ### <a id="contact"></a> `05.` `<contato/>`
 
-> *Estou sempre aberto a novas oportunidades e projetos interessantes.*
+> _Estou sempre aberto a novas oportunidades e projetos interessantes._
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alessandro-beltramo/">
