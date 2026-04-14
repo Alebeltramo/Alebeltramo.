@@ -1,65 +1,50 @@
+```
+  Olá, mundo! Eu sou...
+```
+
+# <a href="#">Alessandro<span style="color: #a78bfa;"> Beltramo</span></a>
+
+### <img src="https://img.shields.io/badge/Desenvolvedor%20de%20Software-a78bfa?style=flat-square" alt="dev" /> <img src="https://img.shields.io/badge/Freelancer%20Home%20Home%20Office-818cf8?style=flat-square" alt="freelancer" /> <img src="https://img.shields.io/badge/Estudante%20de%20ADS-6366f1?style=flat-square" alt="student" />
+
+> Entusiasta de Automação · Oracle ONE Aluno · `console.log("Hello World!")`
+
 <div align="center">
-  <a href="#about"><kbd>    </kbd></a>
-  <a href="#skills"><kbd>    </kbd></a>
-  <a href="#projects"><kbd>    </kbd></a>
-  <a href="#stats"><kbd>    </kbd></a>
-  <a href="#contact"><kbd>    </kbd></a>
 
-  <br /><br />
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=15)](https://www.linkedin.com/in/alessandro-beltramo/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=15)](https://www.youtube.com/@overclockperformance) | [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&logoWidth=15)](https://www.tiktok.com/@beltramossm?lang=pt-BR) | [![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000&logoWidth=15)](https://github.com/Alebeltramo) |
+|---|---|---|---|
 
-  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da" alt="header" width="100%" />
-
-  <br /><br />
-
-  <h1>&lt; Alessandro Beltramo /&gt;</h1>
-
-  <p>
-    <img src="https://img.shields.io/badge/status-available-brightgreen?style=flat-square" alt="status" />
-    <img src="https://img.shields.io/badge/location-S%C3%A3o%20Paulo%2C%20BR-1a1f35?style=flat-square" alt="location" />
-    <img src="https://img.shields.io/badge/freelancer-available-a78bfa?style=flat-square" alt="freelancer" />
-  </p>
 </div>
 
 ---
 
-### <a id="about"></a> `01.` Sobre mim
+## <a id="about"></a> `<sobre/>`
 
-```
-> ola_mundo.exe
-```
-
-<div align="center">
-<table><tr><td>
-
-Sou um **desenvolvedor de software** e **freelancer** baseado em Taboão da Serra, São Paulo. Atualmente cursando **Análise e Desenvolvimento de Sistemas**, estou sempre buscando novos desafios e oportunidades para crescer na área de tecnologia.
+Sou um **desenvolvedor de software** e **freelancer** baseado em **Taboão da Serra, São Paulo**. Atualmente cursando **Análise e Desenvolvimento de Sistemas**, estou sempre buscando novos desafios e oportunidades para crescer na área de tecnologia.
 
 Minha jornada no desenvolvimento inclui formações pela **Oracle Next Education (ONE)** e **Alura**, com foco especial em **Java**, **Python** e **JavaScript**. Tenho paixão por criar soluções eficientes e automações que simplificam processos.
 
-</td></tr></table>
-</div>
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 📋 Info
+#### 📋 Informações
 
 | Detalhe | Valor |
 |---|---|
 | 📍 Localização | Taboão da Serra, SP |
 | 💼 Trabalho | Freelancer Home Office |
 | 🎓 Formação | Análise e Dev. de Sistemas |
-| ⏰ Fuso | UTC -03:00 (BRT) |
+| ⏰ Fuso Horário | UTC -03:00 (BRT) |
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 #### 🎯 Destaques
 
-- 🟠 Formação **Oracle ONE** + **Alura**
-- ☕ Especialização em **Java**
-- 🤖 Automação com **Python** & Microsoft
-- 🌐 Desenvolvimento **Full Stack**
+- 🎓 Formação completa **Oracle ONE** + **Alura**
+- ☕ Especialização em **Java Developer** — foco em backend e automações
+- 🤖 **Automação** de processos com **Python** e ferramentas Microsoft
+- 🌐 Desenvolvimento Full Stack com HTML, CSS e JavaScript
 
 </td>
 </tr>
@@ -67,62 +52,76 @@ Minha jornada no desenvolvimento inclui formações pela **Oracle Next Education
 
 ---
 
-### <a id="skills"></a> `02.` Tecnologias
+## <a id="skills"></a> `<skills/>`
 
 <div align="center">
 
-| Linguagens | Ferramentas & Web |
-|---|---|
-| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> |
-| <img src="https://img.shields.io/badge/Java-0074BD?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> | <img src="https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" /> |
-| <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /> | <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br/><sub><i>Automação & Scripts</i></sub> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br/><sub><i>Web Development</i></sub> | <img src="https://img.shields.io/badge/Java-0074BD?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br/><sub><i>Backend & Aplicações</i></sub> |
+|:---:|:---:|:---:|
+| **80%** | **75%** | **70%** |
+
+| <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br/><sub><i>Programação de Sistemas</i></sub> | <img src="https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS" /><br/><sub><i>Frontend & Design</i></sub> | <img src="https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" /><br/><sub><i>Excel, Windows & Tools</i></sub> |
+|:---:|:---:|:---:|
+| **60%** | **85%** | **90%** |
 
 </div>
 
 ---
 
-### <a id="projects"></a> `03.` Projetos
+## <a id="projects"></a> `<projetos/>`
 
-| Projeto | Descrição | Tags |
+<div align="center">
+
+| Projeto | Descrição | Tech |
 |---|---|---|
-| [Overclock Performance](https://github.com/Alebeltramo/Overclock-Performance) | Performance e otimização de sistemas, focado em melhorias de hardware e software | `Performance` `Otimização` |
-| [Interface](https://github.com/Alebeltramo/Interface) | Interface de usuário com foco em design moderno e experiência do usuário | `UI/UX` `Interface` |
-| [NugConnect](https://github.com/Alebeltramo/NugConnect) | Conectividade e criação de funções para integração de sistemas | `Funções` `Conectividade` |
-| [Automação Excel](https://github.com/Alebeltramo/Alebeltramo-automacao-excel) | Automação de planilhas Excel para otimização de processos e produtividade | `Python` `Excel` `Automação` |
-| [Amigo Secreto](https://github.com/Alebeltramo/amigo-secreto) | Primeiro projeto desenvolvido com HTML, CSS e JavaScript — aulas Alura | `HTML` `CSS` `JavaScript` |
+| <img src="https://img.shields.io/badge/Overclock%20Performance-a78bfa?style=flat-square" alt="Overclock" /><br/>[Ver repositório →](https://github.com/Alebeltramo/Overclock-Performance) | Performance e otimização de sistemas, focado em melhorias de hardware e software | `Performance` `Otimização` |
+| <img src="https://img.shields.io/badge/Interface-818cf8?style=flat-square" alt="Interface" /><br/>[Ver repositório →](https://github.com/Alebeltramo/Interface) | Interface de usuário com foco em design moderno e experiência do usuário | `UI/UX` `Interface` |
+| <img src="https://img.shields.io/badge/NugConnect-6366f1?style=flat-square" alt="NugConnect" /><br/>[Ver repositório →](https://github.com/Alebeltramo/NugConnect) | Conectividade e criação de funções para integração de sistemas | `Funções` `Conectividade` |
+| <img src="https://img.shields.io/badge/Automação%20Excel-217346?style=flat-square" alt="Excel" /><br/>[Ver repositório →](https://github.com/Alebeltramo/Alebeltramo-automacao-excel) | Automação de planilhas Excel para otimização de processos e produtividade | `Python` `Excel` `Automação` |
+| <img src="https://img.shields.io/badge/Amigo%20Secreto-F7DF1E?style=flat-square" alt="Amigo Secreto" /><br/>[Ver repositório →](https://github.com/Alebeltramo/amigo-secreto) | Primeiro projeto desenvolvido com HTML, CSS e JavaScript — aulas Alura | `HTML` `CSS` `JavaScript` |
 
----
-
-### <a id="stats"></a> `04.` Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a1f35&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alebeltramo&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a1f35&title_color=a78bfa&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="49%" />
-
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alebeltramo&theme=tokyonight&background=0d1117&border=1a1f35&ring=a78bfa&fire=818cf8&currStreakLabel=a78bfa" alt="GitHub Streak" width="100%" />
-
-  <br /><br />
-
-  <img src="https://ghchart.rshah.org/8b5cf6/Alebeltramo" alt="Contributions" width="100%" />
 </div>
 
 ---
 
-### <a id="contact"></a> `05.` Contato
+## <a id="stats"></a> `<estatísticas/>`
 
 <div align="center">
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-beltramo/) | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@overclockperformance) | [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@beltramossm?lang=pt-BR) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alebeltramo) |
-|---|---|---|---|
+<img src="https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a1f35&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alebeltramo&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a1f35&title_color=a78bfa&text_color=c9d1d9&hide_border=true" alt="Top Languages" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alebeltramo&theme=tokyonight&background=0d1117&border=1a1f35&ring=a78bfa&fire=818cf8&currStreakLabel=a78bfa&hide_border=true" alt="Streak" width="96%" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/8b5cf6/Alebeltramo" alt="Contributions" width="96%" />
 
 </div>
 
-<br />
+---
+
+## <a id="contact"></a> `<contato/>`
+
+> Estou sempre aberto a novas oportunidades e projetos interessantes.
 
 <div align="center">
-  <p><code>&lt;/&gt;</code> Feito com 💜 por <strong>Alessandro Beltramo</strong></p>
-  <p><sub>© 2026 — Todos os direitos reservados</sub></p>
+
+| [![LinkedIn](https://img.shields.io/badge/alessandro--beltramo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandro-beltramo/) | [![YouTube](https://img.shields.io/badge/@overclockperformance-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@overclockperformance) |
+|---|---|
+| [![TikTok](https://img.shields.io/badge/@beltramossm-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@beltramossm?lang=pt-BR) | [![GitHub](https://img.shields.io/badge/Alebeltramo-ffffff?style=for-the-badge&logo=github&logoColor=000)](https://github.com/Alebeltramo) |
+
+</div>
+
+---
+
+<div align="center">
+
+`<AB/>`
+
+<sub>Feito com <b style="color: #ff4757;">❤</b> por Alessandro Beltramo · © 2026</sub>
+
 </div>
