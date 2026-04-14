@@ -1,55 +1,38 @@
-<p align="center">
-  <a href="#about">
-    <img src="https://img.shields.io/badge/sobre-a78bfa?style=for-the-badge" alt="Sobre" />
-  </a>
-  <a href="#skills">
-    <img src="https://img.shields.io/badge/skills-818cf8?style=for-the-badge" alt="Skills" />
-  </a>
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/projetos-6366f1?style=for-the-badge" alt="Projetos" />
-  </a>
-  <a href="#stats">
-    <img src="https://img.shields.io/badge/estat%C3%ADsticas-4f46e5?style=for-the-badge" alt="Stats" />
-  </a>
-  <a href="#contact">
-    <img src="https://img.shields.io/badge/contato-3730a3?style=for-the-badge" alt="Contato" />
-  </a>
-</p>
+```python
+while True:
+    print("Olá, mundo! Eu sou Alessandro Beltramo 🖐️")
+```
 
 <p align="center">
   <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/a3ec739f-81ba-4793-8ae8-8c809a81b0da" alt="Header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-Dispon%C3%ADvel-22c55e?style=flat-square&logo=github" alt="Disponível" />
-  <img src="https://img.shields.io/badge/localiza%C3%A7%C3%A3o-S%C3%A3o%20Paulo%2C%20BR-1a1f35?style=flat-square" alt="Localização" />
+  <img src="https://img.shields.io/badge/status-Dispon%C3%ADvel-22c55e?style=flat-square" alt="Disponível" />
+  <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20BR-1a1f35?style=flat-square" alt="Localização" />
   <img src="https://img.shields.io/badge/6%20Repos-818cf8?style=flat-square" alt="Repos" />
-  <img src="https://img.shields.io/badge/UTC--03:00%20(BRT)-a78bfa?style=flat-square" alt="Fuso" />
+  <img src="https://img.shields.io/badge/Freelancer-a78bfa?style=flat-square" alt="Freelancer" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388" alt="Code Animation" width="100%" />
 </p>
 
 ---
 
-## <a id="about"></a>
-
-### `01.` `<sobre/>`
-
-```
-> ola_mundo()
-```
-
-<p align="center">
-  <sub>Olá, mundo! Eu sou <strong>Alessandro Beltramo</strong></sub>
-</p>
+### <a id="about"></a> `01.` `<sobre/>`
 
 <table>
 <tr>
 <td width="65%">
 
-Sou um **desenvolvedor de software** e **freelancer** baseado em **Taboão da Serra, São Paulo**. Atualmente cursando **Análise e Desenvolvimento de Sistemas**, estou sempre buscando novos desafios e oportunidades para crescer na área de tecnologia.
+```
+> quem_sou_eu.exe carregando...
+```
 
-Minha jornada no desenvolvimento inclui formações pela **Oracle Next Education (ONE)** e **Alura**, com foco especial em **Java**, **Python** e **JavaScript**. Tenho paixão por criar soluções eficientes e automações que simplificam processos.
+Sou um **desenvolvedor de software** e **freelancer** baseado em **Taboão da Serra, São Paulo**. Cursando **Análise e Desenvolvimento de Sistemas**.
 
-> *Apaixonado por projetos na área de desenvolvimento de software.*
+Formações pela **Oracle Next Education (ONE)** e **Alura**, com foco em **Java**, **Python** e **JavaScript**. Paixão por criar soluções eficientes e automações que simplificam processos.
 
 </td>
 <td width="35%">
@@ -67,22 +50,28 @@ Minha jornada no desenvolvimento inclui formações pela **Oracle Next Education
 </tr>
 </table>
 
+#### 🎯 Destaques
+
+- 🎓 Formação completa **Oracle ONE** + **Alura**
+- ☕ Especialização em **Java Developer** — backend e automações
+- 🤖 **Automação** de processos com **Python** e Microsoft
+- 🌐 Desenvolvimento Full Stack com HTML, CSS e JavaScript
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a1f35&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&count_private=true&hide_border=true" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alebeltramo&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a1f35&title_color=a78bfa&text_color=c9d1d9&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alebeltramo&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a1f35&title_color=a78bfa&icon_color=818cf8&text_color=c9d1d9&count_private=true" alt="Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alebeltramo&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a1f35&title_color=a78bfa&text_color=c9d1d9" alt="Top Langs" width="48%" />
 </p>
 
 ---
 
-## <a id="skills"></a>
-
-### `02.` `<skills/>`
+### <a id="skills"></a> `02.` `<skills/>`
 
 ```javascript
 const desenvolvedor = {
   nome: "Alessandro Beltramo",
-  linguagens: ["Python", "JavaScript", "Java", "C", "HTML", "CSS"],
-  ferramentas: ["Microsoft Excel", "Windows", "Git", "GitHub"],
+  linguagens: ["Python", "JavaScript", "Java", "C"],
+  frontend: ["HTML", "CSS", "JavaScript"],
+  ferramentas: ["Microsoft Excel", "Windows", "Git"],
   foco: ["Automação", "Backend", "Full Stack"],
   oracle_one: true,
   alura: true
@@ -101,72 +90,115 @@ const desenvolvedor = {
 
 </div>
 
----
-
-## <a id="projects"></a>
-
-### `03.` `<projetos/>`
-
 <p align="center">
-  <img src="https://img.shields.io/badge/6%20Reposit%C3%B3rios-818cf8?style=for-the-badge" alt="6 Repos" />
-  <img src="https://img.shields.io/badge/Freelancer-a78bfa?style=for-the-badge" alt="Freelancer" />
+  <img src="https://github.com/Alebeltramo/Alebeltramo/assets/130994708/90c2680d-8fdd-44e6-9554-0125ba30d388" alt="Coding" width="60%" />
 </p>
 
+---
+
+### <a id="projects"></a> `03.` `<projetos/>`
+
 <div align="center">
-
-| # | Projeto | Descrição | Tech Stack |
-|---|---|---|---|
-| ⭐ | [**Overclock Performance**](https://github.com/Alebeltramo/Overclock-Performance) | Performance e otimização de sistemas — melhorias de hardware e software | `Performance` `Otimização` |
-| 🎨 | [**Interface**](https://github.com/Alebeltramo/Interface) | Interface de usuário com design moderno e experiência do usuário | `UI/UX` `Interface` |
-| 🔗 | [**NugConnect**](https://github.com/Alebeltramo/NugConnect) | Conectividade e funções para integração de sistemas | `Funções` `Conectividade` |
-| 📊 | [**Automação Excel**](https://github.com/Alebeltramo/Alebeltramo-automacao-excel) | Automação de planilhas para otimização de processos | `Python` `Excel` `Automação` |
-| 🎉 | [**Amigo Secreto**](https://github.com/Alebeltramo/amigo-secreto) | Primeiro projeto — HTML, CSS e JavaScript com aulas da Alura | `HTML` `CSS` `JavaScript` |
-
+  <img src="https://img.shields.io/badge/6%20Reposit%C3%B3rios-818cf8?style=for-the-badge" alt="Repos" />
+  <img src="https://img.shields.io/badge/Freelancer-a78bfa?style=for-the-badge" alt="Freelancer" />
 </div>
+
+<table>
+<tr>
+<td width="50%">
+
+#### ⭐ Overclock Performance
+Performance e otimização de sistemas, focado em melhorias de hardware e software.
+
+`Performance` `Otimização`
+
+[Ver repositório →](https://github.com/Alebeltramo/Overclock-Performance)
+
+</td>
+<td width="50%">
+
+#### 🎨 Interface
+Interface de usuário com foco em design moderno e experiência do usuário.
+
+`UI/UX` `Interface`
+
+[Ver repositório →](https://github.com/Alebeltramo/Interface)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔗 NugConnect
+Conectividade e criação de funções para integração de sistemas.
+
+`Funções` `Conectividade`
+
+[Ver repositório →](https://github.com/Alebeltramo/NugConnect)
+
+</td>
+<td width="50%">
+
+#### 📊 Automação Excel
+Automação de planilhas Excel para otimização de processos e produtividade.
+
+`Python` `Excel` `Automação`
+
+[Ver repositório →](https://github.com/Alebeltramo/Alebeltramo-automacao-excel)
+
+</td>
+</tr>
+<tr>
+<td width="100%" colspan="2">
+
+#### 🎉 Amigo Secreto
+Primeiro projeto desenvolvido com HTML, CSS e JavaScript — aulas Alura.
+
+`HTML` `CSS` `JavaScript`
+
+[Ver repositório →](https://github.com/Alebeltramo/amigo-secreto)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## <a id="stats"></a>
+### <a id="stats"></a> `04.` `<estatísticas/>`
 
-### `04.` `<estatísticas/>`
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alebeltramo&theme=tokyonight&background=0d1117&border=1a1f35&ring=a78bfa&fire=818cf8&currStreakLabel=a78bfa" alt="Streak" width="100%" />
+</p>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alebeltramo&theme=tokyonight&background=0d1117&border=1a1f35&ring=a78bfa&fire=818cf8&currStreakLabel=a78bfa&hide_border=true" alt="Streak" width="95%" />
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/8b5cf6/Alebeltramo" alt="Contribuições" width="95%" />
-
-</div>
+<p align="center">
+  <img src="https://ghchart.rshah.org/8b5cf6/Alebeltramo" alt="Contribuições" width="96%" />
+</p>
 
 ---
 
-## <a id="contact"></a>
-
-### `05.` `<contato/>`
+### <a id="contact"></a> `05.` `<contato/>`
 
 > *Estou sempre aberto a novas oportunidades e projetos interessantes.*
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alessandro-beltramo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/alessandro--beltramo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@overclockperformance">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/@overclockperformance-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.tiktok.com/@beltramossm?lang=pt-BR">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  <a href="https://www.tiktok.com/@beltramossm">
+    <img src="https://img.shields.io/badge/@beltramossm-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="https://github.com/Alebeltramo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Alebeltramo-ffffff?style=for-the-badge&logo=github&logoColor=000" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%3CAB%2F%3E-a78bfa?style=for-the-badge" alt="AB Logo" />
+  <img src="https://img.shields.io/badge/%3CAB%2F%3E-a78bfa?style=for-the-badge" alt="AB" />
 </p>
 
 <p align="center">
